@@ -1,6 +1,12 @@
 # CIS419-Final-Project-Text-Classification
 
-This is the Final Project for CIS419. Our Project Proposal:
+
+
+This our the Final Project for CIS419. 
+
+By Neil Shweky, Hersh Solanki, and Kamal El Bayrouti
+
+Our Project Proposal:
 
 
 ### What are you trying to do? Articulate your objectives using absolutely no jargon.    
