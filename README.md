@@ -4,7 +4,7 @@
 
 This the Final Project for CIS419. 
 
-By Neil Shweky, Hersh Solanki, and Kamal El Bayrouti
+By Neil Shweky, Hersh Solanki, and Kamal El Bayrouti.
 
 Our Project Proposal:
 
